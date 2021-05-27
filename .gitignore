@@ -6,3 +6,5 @@
 *.sql
 ## * começa por qualquer coisa
 ## ignora tudo o que tem a extensão SQL
+
+*.txt
